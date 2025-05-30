@@ -53,7 +53,7 @@ const Navbar = () => {
             Services
           </Link>
           <Link href="/contact" className="block hover:text-blue-600">
-            Contact
+            Contact US
           </Link>
         </div>
       )}
