@@ -5,11 +5,15 @@
   "start_url": "/",
   "name": "Next PWA",
   "short_name": "PWA",
-  "description": "This app is to demo PWA in Next.js",
   "icons": [
     {
       "src": "/images.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/image.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
